@@ -10,3 +10,19 @@ G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.vbproj.Generat
 G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.exe
 G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.xml
 G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.pdb
+J:\Projects\BarCode\BarCode\bin\Release\BarCode.exe.manifest
+J:\Projects\BarCode\BarCode\bin\Release\BarCode.application
+J:\Projects\BarCode\BarCode\bin\Release\BarCode.exe
+J:\Projects\BarCode\BarCode\bin\Release\BarCode.pdb
+J:\Projects\BarCode\BarCode\bin\Release\BarCode.xml
+J:\Projects\BarCode\BarCode\obj\Release\ResolveAssemblyReference.cache
+J:\Projects\BarCode\BarCode\obj\Release\WindowsApplication1.Form1.resources
+J:\Projects\BarCode\BarCode\obj\Release\WindowsApplication1.FormAbout.resources
+J:\Projects\BarCode\BarCode\obj\Release\WindowsApplication1.FormShowBar.resources
+J:\Projects\BarCode\BarCode\obj\Release\WindowsApplication1.Resources.resources
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.vbproj.GenerateResource.Cache
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.exe.manifest
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.application
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.exe
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.xml
+J:\Projects\BarCode\BarCode\obj\Release\BarCode.pdb

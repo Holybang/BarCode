@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="BarCode.exe" version="1.0.0.0" publicKeyToken="afcc81b19c0061fe" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BarCode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BarCode.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BarCode.exe" size="73728">
+      <assemblyIdentity name="BarCode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>RVLY51KgcEBjbmVLAA/5pqSo6JE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Vole\Holybang" issuerKeyHash="d716a0edce2bcbb7e7d0eeba85192277a3ace75a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6Fx3+kYiOGNQztU/ycIP/Puf3U4=</DigestValue></Reference></SignedInfo><SignatureValue>e2N6dZt2ShA3Vop8Um7ArvtUQ9CvYwYs5OVg7rqcs3vMAogWT3T0FDdcisBwfRH8FLD0Tiz+VW/o+f0Uq+GIfgyTjmptnlEoievo/XFkteKj4U+3+nQOrUkkpbxbv0aaTKhYjxSniwM7Nvs1ZyA9+XUBkEfL2W3bVOKhR/beHgc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0RNq3jLfw/SbJ1jY+jhiVCLdB9uTu0ZUvwJrhH7M/CrVh1bIyqRbmxnovJ2rpmG9m/33CPLsWU19oQncnADLHwuu6vsIc4VqAXQ5gbb29pJoAbdD3EbRRp7G5GVvhEZiRtH9/k8n7bCsFCd9HbYHhBi3ozxKAaaFPbKo2sXXJgM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4edd9ffbfc0fc2c93fd5ce5063382246fa775ce8" Description="" Url=""><as:assemblyIdentity name="BarCode.exe" version="1.0.0.0" publicKeyToken="afcc81b19c0061fe" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Vole\Holybang</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>p3qqDFcaZgeSV479liqPJ4U81JQ=</DigestValue></Reference></SignedInfo><SignatureValue>Z8GjvSbZTGlC8CclemSC+RE+g9pLEEA6gZTkam7twxJeoh0uhvSY93AHHjhIcr7z6h96urHLQKqK+D0I7AZW5+HO0v85Kruk2Kv3NQoTvBkRE74wvFeCb8B1DhQD07lctBZiXkAttkyU5nfokjR7o4y5vmu7OzcmNhlFA4w/jYw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0RNq3jLfw/SbJ1jY+jhiVCLdB9uTu0ZUvwJrhH7M/CrVh1bIyqRbmxnovJ2rpmG9m/33CPLsWU19oQncnADLHwuu6vsIc4VqAXQ5gbb29pJoAbdD3EbRRp7G5GVvhEZiRtH9/k8n7bCsFCd9HbYHhBi3ozxKAaaFPbKo2sXXJgM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQQcYzGH778ZJK+LZ684DJXzANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoAVgBvAGwAZQBcAEgAbwBsAHkAYgBhAG4AZzAeFw0xMzAyMTcwMzI1NTFaFw0xNDAyMTcwOTI1NTFaMCUxIzAhBgNVBAMeGgBWAG8AbABlAFwASABvAGwAeQBiAGEAbgBnMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRE2reMt/D9JsnWNj6OGJUIt0H25O7RlS/AmuEfsz8KtWHVsjKpFubGei8naumYb2b/fcI8uxZTX2hCdycAMsfC67q+whzhWoBdDmBtvb2kmgBt0PcRtFGnsbkZW+ERmJG0f3+TyftsKwUJ30dtgeEGLejPEoBpoU9sqjaxdcmAwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADZepdzOsjpo8Qt6dhnlDJsTSq+7XY8FiGcMa23giRBoe0RlJnqKWRqY7Aew7lM/jkGW2hLcSg7EjT2OZj6pdg+i8Hn2AbFMfcfh7wHOR66Npz/WaJJvp1SvB+BcRL8jZS/VwkABr7fwpYfUj5lJf29chIumKt52tx3UN01PC6u/</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
