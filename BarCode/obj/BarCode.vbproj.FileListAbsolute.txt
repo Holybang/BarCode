@@ -1,0 +1,12 @@
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\bin\Release\BarCode.exe
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\bin\Release\BarCode.pdb
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\bin\Release\BarCode.xml
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\ResolveAssemblyReference.cache
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\WindowsApplication1.Form1.resources
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\WindowsApplication1.FormAbout.resources
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\WindowsApplication1.FormShowBar.resources
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\WindowsApplication1.Resources.resources
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.vbproj.GenerateResource.Cache
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.exe
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.xml
+G:\My Program\VC2005\Bar Code\BarCode\BarCode\obj\Release\BarCode.pdb
